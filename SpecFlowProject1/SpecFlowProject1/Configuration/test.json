@@ -1,0 +1,9 @@
+{
+  "url": "https://volume-cognisense-webapp-wwwuat.azurewebsites.net",
+  "driverToUse": "Chrome",
+  "reportPath": "C:\\Users\\Srikanya\\source\\repos\\SpecFlowProject1\\SpecFlowProject1\\",
+  "debug": true,
+  "driverTimeOutinSeconds": 45,
+  "implicitlyWait": 30,
+  "pageLoadTimeout": 30
+}
